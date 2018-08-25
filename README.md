@@ -1,3 +1,3 @@
 # Pygame
-A GUI Game in Python
+A GUI Game in Python.
 Please wait for her with patient. ^_^
